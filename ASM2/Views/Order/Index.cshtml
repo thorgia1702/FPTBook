@@ -1,0 +1,49 @@
+﻿
+@{
+    ViewData["Title"] = "ListCart";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    td, th {
+        padding: 10px;
+    }
+</style>
+<script src="~/js/jquery.min.js"></script>
+
+<div class="list-cart">
+    <table class="cart" border="1">
+        <tr>
+            <th>STT</th>
+            <th>Title</th>
+            <th>Image</th>
+            <th>Quantity</th>
+            <th>Price</th>
+            <th>Total Price</th>
+            <th>Update</th>
+            <th>Delete</th>
+        </tr>
+        @{
+            int STT = 0;
+            foreach (var item in ViewBag.carts)
+            {
+                string txt_class = "quantity_" + item.Product.ProductID;
+                STT++;
+                //int total = item.Product.Price * item.Quantity;
+                decimal total = item.Product.Price * item.Quantity;
+                //caloriesBurned = Convert.ToInt32(Decimal.Multiply(maleusage, textBoxInt));
+                <tr>
+                    <td>@STT</td>
+                    <td>@item.Product.Title</td>
+                    <td><img src="~/images/@item.Product.UrlImage" width="100" height="100" /></td>
+                    <td><input type="number" class="@txt_class" value="@item.Quantity" /></td>
+                    <td>@item.Product.Price</td>
+                    <td>@total</td>
+                    <td><a href="" data-id="@item.Product.ProductID" class="updateCart">Update</a></td>
+                    <td><a asp-controller="Product" asp-action="deleteCart" asp-route-id="@item.Product.ProductID">Delete</a></td>
+                </tr>
+            }
+        }
+
+    </table>
+</div>

@@ -1,0 +1,149 @@
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\appsettings.Development.json
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\appsettings.json
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\ASM2.staticwebassets.runtime.json
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\ASM2.exe
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\ASM2.deps.json
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\ASM2.runtimeconfig.json
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\ASM2.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\ASM2.pdb
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\Humanizer.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\obj\Debug\net6.0\ASM2.csproj.AssemblyReference.cache
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\obj\Debug\net6.0\ASM2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\obj\Debug\net6.0\ASM2.AssemblyInfoInputs.cache
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\obj\Debug\net6.0\ASM2.AssemblyInfo.cs
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\obj\Debug\net6.0\ASM2.csproj.CoreCompileInputs.cache
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\obj\Debug\net6.0\ASM2.MvcApplicationPartsAssemblyInfo.cs
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\obj\Debug\net6.0\ASM2.MvcApplicationPartsAssemblyInfo.cache
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\obj\Debug\net6.0\ASM2.RazorAssemblyInfo.cache
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\obj\Debug\net6.0\ASM2.RazorAssemblyInfo.cs
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\obj\Debug\net6.0\staticwebassets.build.json
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\obj\Debug\net6.0\staticwebassets.development.json
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\obj\Debug\net6.0\scopedcss\bundle\ASM2.styles.css
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\obj\Debug\net6.0\scopedcss\projectbundle\ASM2.bundle.scp.css
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\obj\Debug\net6.0\ASM2.csproj.CopyComplete
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\obj\Debug\net6.0\ASM2.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\obj\Debug\net6.0\refint\ASM2.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\obj\Debug\net6.0\ASM2.pdb
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\obj\Debug\net6.0\ASM2.genruntimeconfig.cache
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\obj\Debug\net6.0\ref\ASM2.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Lecture\Application development 1670\Web app\ASM2\ASM2\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\appsettings.json
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\ASM2.staticwebassets.runtime.json
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\ASM2.exe
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\ASM2.deps.json
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\ASM2.runtimeconfig.json
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\ASM2.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\ASM2.pdb
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\Humanizer.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\obj\Debug\net6.0\ASM2.csproj.AssemblyReference.cache
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\obj\Debug\net6.0\ASM2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\obj\Debug\net6.0\ASM2.AssemblyInfoInputs.cache
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\obj\Debug\net6.0\ASM2.AssemblyInfo.cs
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\obj\Debug\net6.0\ASM2.csproj.CoreCompileInputs.cache
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\obj\Debug\net6.0\ASM2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\obj\Debug\net6.0\ASM2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\obj\Debug\net6.0\ASM2.RazorAssemblyInfo.cache
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\obj\Debug\net6.0\ASM2.RazorAssemblyInfo.cs
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\obj\Debug\net6.0\staticwebassets\msbuild.ASM2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\obj\Debug\net6.0\staticwebassets\msbuild.build.ASM2.props
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASM2.props
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASM2.props
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\obj\Debug\net6.0\scopedcss\bundle\ASM2.styles.css
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\obj\Debug\net6.0\scopedcss\projectbundle\ASM2.bundle.scp.css
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\obj\Debug\net6.0\ASM2.csproj.CopyComplete
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\obj\Debug\net6.0\ASM2.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\obj\Debug\net6.0\refint\ASM2.dll
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\obj\Debug\net6.0\ASM2.pdb
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\obj\Debug\net6.0\ASM2.genruntimeconfig.cache
+C:\Users\LNV\OneDrive\Desktop\Asm 1670\ASM2\ASM2\obj\Debug\net6.0\ref\ASM2.dll
